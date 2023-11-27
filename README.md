@@ -1,0 +1,1 @@
+# Automatic-Number-Plate-Detection-System-Using-Easy-OCR-Pzbar-and-Tesseract-and-Machine-Learning
